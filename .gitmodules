@@ -1,0 +1,6 @@
+[submodule "themes/tella"]
+	path = themes/tella
+	url = https://github.com/opera7133/tella.git
+[submodule "themes/hugo-universal-theme"]
+	path = themes/hugo-universal-theme
+	url = https://github.com/devcows/hugo-universal-theme
